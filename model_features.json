@@ -1,0 +1,49 @@
+{
+  "features": [
+    "temperature",
+    "humidity",
+    "vibration_level",
+    "stock_quantity",
+    "supplier_rating"
+  ],
+  "num_features": 5,
+  "medians": {
+    "temperature": 24.95,
+    "humidity": 50.09,
+    "vibration_level": 1.02,
+    "stock_quantity": 250.0,
+    "supplier_rating": 2.99
+  },
+  "feature_stats": {
+    "temperature": {
+      "mean": 24.89582,
+      "std": 5.188618883309772,
+      "min": 7.6,
+      "max": 42.09
+    },
+    "humidity": {
+      "mean": 49.945476666666664,
+      "std": 10.198968128676162,
+      "min": 16.12,
+      "max": 80.87
+    },
+    "vibration_level": {
+      "mean": 1.4818633333333333,
+      "std": 1.5019840478565547,
+      "min": 0.0,
+      "max": 13.2
+    },
+    "stock_quantity": {
+      "mean": 249.59966666666668,
+      "std": 144.33310805881024,
+      "min": 0.0,
+      "max": 499.0
+    },
+    "supplier_rating": {
+      "mean": 2.9928700000000004,
+      "std": 1.1519045494876634,
+      "min": 1.0,
+      "max": 5.0
+    }
+  }
+}
